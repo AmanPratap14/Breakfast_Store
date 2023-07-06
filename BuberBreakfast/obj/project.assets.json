@@ -515,35 +515,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Root\\.nuget\\packages\\": {}
+    "/home/krshna/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Root\\Desktop\\Dotnet_Projects\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
+      "projectUniqueName": "/home/krshna/Desktop/Dotnet_dev/Breakfast_Store/BuberBreakfast/BuberBreakfast.csproj",
       "projectName": "BuberBreakfast",
-      "projectPath": "c:\\Users\\Root\\Desktop\\Dotnet_Projects\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
-      "packagesPath": "C:\\Users\\Root\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Root\\Desktop\\Dotnet_Projects\\BuberBreakfast\\BuberBreakfast\\obj\\",
+      "projectPath": "/home/krshna/Desktop/Dotnet_dev/Breakfast_Store/BuberBreakfast/BuberBreakfast.csproj",
+      "packagesPath": "/home/krshna/.nuget/packages/",
+      "outputPath": "/home/krshna/Desktop/Dotnet_dev/Breakfast_Store/BuberBreakfast/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Root\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/krshna/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\Root\\Desktop\\Dotnet_Projects\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
-              "projectPath": "c:\\Users\\Root\\Desktop\\Dotnet_Projects\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj"
+            "/home/krshna/Desktop/Dotnet_dev/Breakfast_Store/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj": {
+              "projectPath": "/home/krshna/Desktop/Dotnet_dev/Breakfast_Store/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj"
             }
           }
         }
@@ -590,7 +587,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
       }
     }
   }
